@@ -28,6 +28,7 @@
 """
 
 # Script dependencies
+conda install -c conda-forge scikit-surprise
 import pandas as pd
 import numpy as np
 import pickle
