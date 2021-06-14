@@ -28,6 +28,7 @@
 """
 
 # Script dependencies
+import surprise
 import pandas as pd
 import numpy as np
 import pickle
