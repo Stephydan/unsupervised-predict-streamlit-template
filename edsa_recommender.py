@@ -27,7 +27,7 @@
 """
 # Streamlit dependencies
 import streamlit as st
-import surprise
+
 
 # Data handling dependencies
 import pandas as pd
