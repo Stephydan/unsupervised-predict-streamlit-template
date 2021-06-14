@@ -27,6 +27,7 @@
 """
 # Streamlit dependencies
 import streamlit as st
+conda install -c conda-forge scikit-surprise
 
 # Data handling dependencies
 import pandas as pd
